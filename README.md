@@ -1,1 +1,7 @@
-# BridgeLabz_Training_MaatrumTechnologies_
+# BridgeLabz Training – Maatrum Technologies
+
+This repository tracks my daily learning.
+
+Each branch contains topic-wise practice.
+
+---
