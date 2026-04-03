@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\bin\Debug\net10.0\Type-casting-pratice.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\bin\Debug\net10.0\Type-casting-pratice.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\bin\Debug\net10.0\Type-casting-pratice.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\bin\Debug\net10.0\Type-casting-pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\bin\Debug\net10.0\Type-casting-pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\refint\Type-casting-pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\Type-casting-pratice.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Type-casting-pratice\Type-casting-pratice\obj\Debug\net10.0\ref\Type-casting-pratice.dll

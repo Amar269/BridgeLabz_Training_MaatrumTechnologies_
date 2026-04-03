@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\bin\Debug\net10.0\Operators_pratice.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\bin\Debug\net10.0\Operators_pratice.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\bin\Debug\net10.0\Operators_pratice.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\bin\Debug\net10.0\Operators_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\bin\Debug\net10.0\Operators_pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\refint\Operators_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\Operators_pratice.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Operators_pratice\Operators_pratice\obj\Debug\net10.0\ref\Operators_pratice.dll

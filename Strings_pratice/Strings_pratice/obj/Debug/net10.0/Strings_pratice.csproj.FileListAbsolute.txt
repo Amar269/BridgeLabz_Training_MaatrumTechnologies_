@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\bin\Debug\net10.0\Strings_pratice.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\bin\Debug\net10.0\Strings_pratice.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\bin\Debug\net10.0\Strings_pratice.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\bin\Debug\net10.0\Strings_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\bin\Debug\net10.0\Strings_pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\refint\Strings_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\Strings_pratice.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Strings_pratice\Strings_pratice\obj\Debug\net10.0\ref\Strings_pratice.dll
