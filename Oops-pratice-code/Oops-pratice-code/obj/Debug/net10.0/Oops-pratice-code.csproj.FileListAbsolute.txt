@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\bin\Debug\net10.0\Oops-pratice-code.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\bin\Debug\net10.0\Oops-pratice-code.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\bin\Debug\net10.0\Oops-pratice-code.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\bin\Debug\net10.0\Oops-pratice-code.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\bin\Debug\net10.0\Oops-pratice-code.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\refint\Oops-pratice-code.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\Oops-pratice-code.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Oops-pratice-code\Oops-pratice-code\obj\Debug\net10.0\ref\Oops-pratice-code.dll
