@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\bin\Debug\net10.0\SnakeandLadder.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\bin\Debug\net10.0\SnakeandLadder.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\bin\Debug\net10.0\SnakeandLadder.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\bin\Debug\net10.0\SnakeandLadder.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\bin\Debug\net10.0\SnakeandLadder.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\refint\SnakeandLadder.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\SnakeandLadder.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\SnakeandLadder\SnakeandLadder\obj\Debug\net10.0\ref\SnakeandLadder.dll
