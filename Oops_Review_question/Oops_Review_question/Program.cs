@@ -62,7 +62,7 @@ public class SchoolResult: Result, IGradecalculator
     }
 }
 
-class program
+class Program
 {
     static void Main(string[] args)
     {
