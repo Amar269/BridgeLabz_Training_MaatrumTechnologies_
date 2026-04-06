@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\bin\Debug\net10.0\Enum_practice.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\bin\Debug\net10.0\Enum_practice.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\bin\Debug\net10.0\Enum_practice.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\bin\Debug\net10.0\Enum_practice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\bin\Debug\net10.0\Enum_practice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\refint\Enum_practice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\Enum_practice.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Enum_practice\Enum_practice\obj\Debug\net10.0\ref\Enum_practice.dll
