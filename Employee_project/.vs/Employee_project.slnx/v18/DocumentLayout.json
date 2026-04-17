@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Employee_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284FD551-8AEF-449C-8A83-E1BBA2508FD1}|Employee_project\\Employee_project.csproj|e:\\bridgelabz_training_maatrumtechnologies_\\employee_project\\employee_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284FD551-8AEF-449C-8A83-E1BBA2508FD1}|Employee_project\\Employee_project.csproj|solutionrelative:employee_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Employee_project\\Employee_project\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_project\\Program.cs",
+              "ToolTip": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Employee_project\\Employee_project\\Program.cs",
+              "RelativeToolTip": "Employee_project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T08:51:39.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

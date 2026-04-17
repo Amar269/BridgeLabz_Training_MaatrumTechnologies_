@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\insertion_sort_DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809E15B5-56F4-E2C2-6E9F-5EBE4E4C3AEF}|insertion_sort_DSA\\insertion_sort_DSA.csproj|e:\\bridgelabz_training_maatrumtechnologies_\\insertion_sort_dsa\\insertion_sort_dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809E15B5-56F4-E2C2-6E9F-5EBE4E4C3AEF}|insertion_sort_DSA\\insertion_sort_DSA.csproj|solutionrelative:insertion_sort_dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\insertion_sort_DSA\\insertion_sort_DSA\\Program.cs",
+              "RelativeDocumentMoniker": "insertion_sort_DSA\\Program.cs",
+              "ToolTip": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\insertion_sort_DSA\\insertion_sort_DSA\\Program.cs",
+              "RelativeToolTip": "insertion_sort_DSA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:09:21.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

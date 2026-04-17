@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\bin\Debug\net8.0\pratice_dsa.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\bin\Debug\net8.0\pratice_dsa.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\bin\Debug\net8.0\pratice_dsa.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\bin\Debug\net8.0\pratice_dsa.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\bin\Debug\net8.0\pratice_dsa.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\refint\pratice_dsa.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\pratice_dsa.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\pratice_dsa\pratice_dsa\obj\Debug\net8.0\ref\pratice_dsa.dll

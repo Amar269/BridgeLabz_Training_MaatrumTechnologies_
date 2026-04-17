@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\bin\Debug\net8.0\bascis-coding.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\bin\Debug\net8.0\bascis-coding.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\bin\Debug\net8.0\bascis-coding.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\bin\Debug\net8.0\bascis-coding.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\bin\Debug\net8.0\bascis-coding.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\refint\bascis-coding.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\bascis-coding.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\bascis-coding\bascis-coding\obj\Debug\net8.0\ref\bascis-coding.dll

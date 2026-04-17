@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\bin\Debug\net8.0\Stacks_DSA.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\bin\Debug\net8.0\Stacks_DSA.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\bin\Debug\net8.0\Stacks_DSA.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\bin\Debug\net8.0\Stacks_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\bin\Debug\net8.0\Stacks_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\refint\Stacks_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\Stacks_DSA.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Stacks_DSA\Stacks_DSA\obj\Debug\net8.0\ref\Stacks_DSA.dll

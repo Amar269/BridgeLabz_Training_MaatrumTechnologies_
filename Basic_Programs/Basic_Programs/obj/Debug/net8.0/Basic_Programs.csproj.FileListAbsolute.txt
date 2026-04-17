@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\bin\Debug\net8.0\Basic_Programs.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\bin\Debug\net8.0\Basic_Programs.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\bin\Debug\net8.0\Basic_Programs.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\bin\Debug\net8.0\Basic_Programs.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\bin\Debug\net8.0\Basic_Programs.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\refint\Basic_Programs.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\Basic_Programs.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Basic_Programs\Basic_Programs\obj\Debug\net8.0\ref\Basic_Programs.dll

@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\bin\Debug\net8.0\Doubly_linked_list.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\bin\Debug\net8.0\Doubly_linked_list.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\bin\Debug\net8.0\Doubly_linked_list.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\bin\Debug\net8.0\Doubly_linked_list.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\bin\Debug\net8.0\Doubly_linked_list.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\refint\Doubly_linked_list.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\Doubly_linked_list.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Doubly_linked_list\Doubly_linked_list\obj\Debug\net8.0\ref\Doubly_linked_list.dll

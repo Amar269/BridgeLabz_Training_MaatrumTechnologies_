@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\bin\Debug\net10.0\snake_game.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\bin\Debug\net10.0\snake_game.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\bin\Debug\net10.0\snake_game.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\bin\Debug\net10.0\snake_game.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\bin\Debug\net10.0\snake_game.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\refint\snake_game.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\snake_game.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\snake_game\snake_game\obj\Debug\net10.0\ref\snake_game.dll

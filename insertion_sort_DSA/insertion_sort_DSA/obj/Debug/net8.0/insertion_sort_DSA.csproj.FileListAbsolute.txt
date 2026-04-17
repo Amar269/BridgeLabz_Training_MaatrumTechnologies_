@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\bin\Debug\net8.0\insertion_sort_DSA.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\bin\Debug\net8.0\insertion_sort_DSA.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\bin\Debug\net8.0\insertion_sort_DSA.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\bin\Debug\net8.0\insertion_sort_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\bin\Debug\net8.0\insertion_sort_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\refint\insertion_sort_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\insertion_sort_DSA.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\insertion_sort_DSA\insertion_sort_DSA\obj\Debug\net8.0\ref\insertion_sort_DSA.dll

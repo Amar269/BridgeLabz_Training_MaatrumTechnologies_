@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\bin\Debug\net10.0\Booleans_pratice.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\bin\Debug\net10.0\Booleans_pratice.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\bin\Debug\net10.0\Booleans_pratice.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\bin\Debug\net10.0\Booleans_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\bin\Debug\net10.0\Booleans_pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\refint\Booleans_pratice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\Booleans_pratice.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Booleans_pratice\Booleans_pratice\obj\Debug\net10.0\ref\Booleans_pratice.dll

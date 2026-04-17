@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\bin\Debug\net8.0\Binary_search.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\bin\Debug\net8.0\Binary_search.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\bin\Debug\net8.0\Binary_search.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\bin\Debug\net8.0\Binary_search.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\bin\Debug\net8.0\Binary_search.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\refint\Binary_search.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\Binary_search.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Binary_search\Binary_search\obj\Debug\net8.0\ref\Binary_search.dll

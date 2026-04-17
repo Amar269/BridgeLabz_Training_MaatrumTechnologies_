@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Booleans_pratice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA34B4AF-7B5B-49C2-56B3-DEF7013D0DB1}|Booleans_pratice\\Booleans_pratice.csproj|e:\\bridgelabz_training_maatrumtechnologies_\\booleans_pratice\\booleans_pratice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA34B4AF-7B5B-49C2-56B3-DEF7013D0DB1}|Booleans_pratice\\Booleans_pratice.csproj|solutionrelative:booleans_pratice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Booleans_pratice\\Booleans_pratice\\Program.cs",
+              "RelativeDocumentMoniker": "Booleans_pratice\\Program.cs",
+              "ToolTip": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Booleans_pratice\\Booleans_pratice\\Program.cs*",
+              "RelativeToolTip": "Booleans_pratice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T04:08:28.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Binary_search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FEDACC-7BCC-4EE8-8DFD-4F2BA724FA32}|Binary_search\\Binary_search.csproj|e:\\bridgelabz_training_maatrumtechnologies_\\binary_search\\binary_search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FEDACC-7BCC-4EE8-8DFD-4F2BA724FA32}|Binary_search\\Binary_search.csproj|solutionrelative:binary_search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Binary_search\\Binary_search\\Program.cs",
+              "RelativeDocumentMoniker": "Binary_search\\Program.cs",
+              "ToolTip": "E:\\BridgeLabz_Training_MaatrumTechnologies_\\Binary_search\\Binary_search\\Program.cs",
+              "RelativeToolTip": "Binary_search\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:48:56.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

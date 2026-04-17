@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exceptions _Try_Catch/1.0.0": {
+        "runtime": {
+          "Exceptions _Try_Catch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exceptions _Try_Catch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

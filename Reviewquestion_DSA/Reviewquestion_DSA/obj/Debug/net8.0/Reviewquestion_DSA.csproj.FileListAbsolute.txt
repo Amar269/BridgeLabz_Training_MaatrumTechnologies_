@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\bin\Debug\net8.0\Reviewquestion_DSA.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\bin\Debug\net8.0\Reviewquestion_DSA.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\bin\Debug\net8.0\Reviewquestion_DSA.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\bin\Debug\net8.0\Reviewquestion_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\bin\Debug\net8.0\Reviewquestion_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\refint\Reviewquestion_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\Reviewquestion_DSA.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Reviewquestion_DSA\Reviewquestion_DSA\obj\Debug\net8.0\ref\Reviewquestion_DSA.dll

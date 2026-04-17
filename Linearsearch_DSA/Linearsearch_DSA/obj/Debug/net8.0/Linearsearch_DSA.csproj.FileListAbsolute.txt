@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\bin\Debug\net8.0\Linearsearch_DSA.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\bin\Debug\net8.0\Linearsearch_DSA.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\bin\Debug\net8.0\Linearsearch_DSA.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\bin\Debug\net8.0\Linearsearch_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\bin\Debug\net8.0\Linearsearch_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\refint\Linearsearch_DSA.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\Linearsearch_DSA.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Linearsearch_DSA\Linearsearch_DSA\obj\Debug\net8.0\ref\Linearsearch_DSA.dll
