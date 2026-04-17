@@ -12,7 +12,7 @@ class Program
     }
 }
 
-/* 
+
  //  1. Flip a coin code
 
        Console.WriteLine("Enter how many times coin should Flip :");
@@ -468,4 +468,4 @@ Console.WriteLine("enter the string : ");
         Console.WriteLine("Compressed String: " + result);
 
 
-       */
+       
