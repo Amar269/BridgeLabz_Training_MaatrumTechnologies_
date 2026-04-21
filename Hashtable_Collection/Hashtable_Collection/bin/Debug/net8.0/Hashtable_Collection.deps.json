@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hashtable_Collection/1.0.0": {
+        "runtime": {
+          "Hashtable_Collection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hashtable_Collection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
