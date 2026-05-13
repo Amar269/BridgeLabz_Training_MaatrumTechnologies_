@@ -10,9 +10,6 @@ Each branch contains topic-wise practice.
 ---
 
 ### What I Have Done
-
-- Joined BridgeLabz .NET Full Stack Training Program
-- Completed onboarding process
 - Set up Visual Studio, Git, and Git Bash
 - Started learning .NET Fundamentals and C# basics
 
@@ -28,11 +25,10 @@ Each branch contains topic-wise practice.
 ---
 
 ## 14.03.2026
----
 
 ### What I Have Done
 
-- Learned Variables and Literals in C#
+- Learned Variables in C#
 - Practiced Primitive Data Types
 - Worked with input and output operations
 - Practiced arithmetic and relational operators
@@ -49,7 +45,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 16.03.2026
----
 
 ### What I Have Done
 
@@ -70,7 +65,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 17.03.2026
----
 
 ### What I Have Done
 
@@ -91,7 +85,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 18.03.2026
----
 
 ### What I Have Done
 
@@ -110,19 +103,7 @@ Each branch contains topic-wise practice.
 - None
 
 ---
-
-## 19.03.2026
----
-
-### Holiday
-
-- Telugu New Year's Day
-
----
-
 ## 20.03.2026
----
-
 ### What I Have Done
 
 - Started Strings concepts in C#
@@ -140,17 +121,7 @@ Each branch contains topic-wise practice.
 
 ---
 
-## 21.03.2026
----
-
-### Holiday
-
-- Ramzan
-
----
-
 ## 23.03.2026
----
 
 ### What I Have Done
 
@@ -171,8 +142,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 24.03.2026
----
-
 ### What I Have Done
 
 - Completed and attended Review 1
@@ -191,8 +160,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 25.03.2026
----
-
 ### What I Have Done
 
 - Started Object-Oriented Programming concepts
@@ -210,8 +177,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 26.03.2026
----
-
 ### What I Have Done
 
 - Learned Encapsulation and Inheritance
@@ -229,8 +194,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 27.03.2026
----
-
 ### What I Have Done
 
 - Learned Polymorphism concepts
@@ -248,8 +211,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 28.03.2026
----
-
 ### What I Have Done
 
 - Revised OOP concepts in C#
@@ -268,8 +229,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 30.03.2026
----
-
 ### What I Have Done
 
 - Practiced real-time OOP implementation programs
@@ -285,16 +244,6 @@ Each branch contains topic-wise practice.
 - None
 
 ---
-
-## 31.03.2026
----
-
-### Holiday
-
-- Mahaveer Jayanthi
-
----
-
 ## 01.04.2026
 ---
 
@@ -334,19 +283,7 @@ Each branch contains topic-wise practice.
 - None
 
 ---
-
-## 03.04.2026
----
-
-### Holiday
-
-- Good Friday
-
----
-
 ## 04.04.2026
----
-
 ### What I Have Done
 
 - Practiced Linked List operations
@@ -365,8 +302,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 06.04.2026
----
-
 ### What I Have Done
 
 - Started Doubly Linked List concepts
@@ -384,7 +319,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 07.04.2026
----
 
 ### What I Have Done
 
@@ -403,8 +337,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 08.04.2026
----
-
 ### What I Have Done
 
 - Started Stack and Queue concepts
@@ -422,10 +354,8 @@ Each branch contains topic-wise practice.
 ---
 
 ## 09.04.2026
----
 
 ### What I Have Done
-
 - Completed Arrays and Strings problem-solving
 - Revised logic building and implementation
 - Learned basics of 2D arrays
@@ -442,8 +372,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 10.04.2026
----
-
 ### What I Have Done
 
 - Revised Arrays and Strings Problems
@@ -462,8 +390,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 11.04.2026
----
-
 ### What I Have Done
 
 - Started learning Doubly Linked List concepts
@@ -482,7 +408,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 13.04.2026
----
 
 ### What I Have Done
 
@@ -501,18 +426,7 @@ Each branch contains topic-wise practice.
 
 ---
 
-## 14.04.2026
----
-
-### Holiday
-
-- Tamil New Year's Day / Dr. B.R. Ambedkar Birthday
-
----
-
 ## 15.04.2026
----
-
 ### What I Have Done
 
 - Revised core Data Structures concepts
@@ -533,8 +447,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 16.04.2026
----
-
 ### What I Have Done
 
 - Completed and attended Review 3
@@ -553,7 +465,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 17.04.2026
----
 
 ### What I Have Done
 
@@ -574,8 +485,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 18.04.2026
----
-
 ### What I Have Done
 
 - Studied ArrayList in C#
@@ -595,8 +504,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 20.04.2026
----
-
 ### What I Have Done
 
 - Completed Hashtable concepts
@@ -616,8 +523,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 21.04.2026
----
-
 ### What I Have Done
 
 - Implemented Non-Generic Collections
@@ -637,8 +542,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 22.04.2026
----
-
 ### What I Have Done
 
 - Completed Exception Handling concepts
@@ -656,19 +559,7 @@ Each branch contains topic-wise practice.
 - None
 
 ---
-
-## 23.04.2026
----
-
-### Holiday
-
-- General Election
-
----
-
 ## 24.04.2026
----
-
 ### What I Have Done
 
 - Practiced Exception Handling examples
@@ -689,8 +580,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 25.04.2026
----
-
 ### What I Have Done
 
 - Revised Generic and Non-Generic Collections
@@ -709,8 +598,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 27.04.2026
----
-
 ### What I Have Done
 
 - Completed File I/O operations using CSV and JSON
@@ -728,7 +615,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 28.04.2026
----
 
 ### What I Have Done
 
@@ -748,8 +634,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 29.04.2026
----
-
 ### What I Have Done
 
 - Learned Unit Testing concepts
@@ -770,8 +654,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 30.04.2026
----
-
 ### What I Have Done
 
 - Revised MSTest concepts
@@ -790,7 +672,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 02.05.2026
----
 
 ### What I Have Done
 
@@ -811,8 +692,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 04.05.2026
----
-
 ### What I Have Done
 
 - Completed Regex topics
@@ -833,8 +712,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 05.05.2026
----
-
 ### What I Have Done
 
 - Learned Attributes and Annotations in C#
@@ -854,8 +731,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 06.05.2026
----
-
 ### What I Have Done
 
 - Revised Attributes and Custom Attributes
@@ -874,8 +749,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 07.05.2026
----
-
 ### What I Have Done
 
 - Implemented Data Annotations in C#
@@ -895,8 +768,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 08.05.2026
----
-
 ### What I Have Done
 
 - Revised File I/O concepts
@@ -916,8 +787,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 09.05.2026
----
-
 ### What I Have Done
 
 - Revised File I/O concepts
@@ -942,8 +811,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 11.05.2026
----
-
 ### What I Have Done
 
 - Learned Design Principles
@@ -964,8 +831,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 12.05.2026
----
-
 ### What I Have Done
 
 - Implemented Factory Pattern
@@ -986,8 +851,6 @@ Each branch contains topic-wise practice.
 ---
 
 ## 13.05.2026
----
-
 ### What I Have Done
 
 - Revised SOLID Principles
