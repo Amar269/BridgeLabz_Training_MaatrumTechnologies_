@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\bin\Debug\net8.0\Generic_dictionary.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\bin\Debug\net8.0\Generic_dictionary.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\bin\Debug\net8.0\Generic_dictionary.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\bin\Debug\net8.0\Generic_dictionary.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\bin\Debug\net8.0\Generic_dictionary.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\refint\Generic_dictionary.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\Generic_dictionary.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Generic_dictionary\Generic_dictionary\obj\Debug\net8.0\ref\Generic_dictionary.dll

@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\bin\Debug\net8.0\FileIoWithCSV.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\bin\Debug\net8.0\FileIoWithCSV.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\bin\Debug\net8.0\FileIoWithCSV.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\bin\Debug\net8.0\FileIoWithCSV.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\bin\Debug\net8.0\FileIoWithCSV.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\refint\FileIoWithCSV.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\FileIoWithCSV.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIoWithCSV\FileIoWithCSV\obj\Debug\net8.0\ref\FileIoWithCSV.dll

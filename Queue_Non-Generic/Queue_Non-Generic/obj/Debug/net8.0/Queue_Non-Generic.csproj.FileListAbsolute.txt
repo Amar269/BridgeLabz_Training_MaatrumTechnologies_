@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\bin\Debug\net8.0\Queue_Non-Generic.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\bin\Debug\net8.0\Queue_Non-Generic.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\bin\Debug\net8.0\Queue_Non-Generic.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\bin\Debug\net8.0\Queue_Non-Generic.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\bin\Debug\net8.0\Queue_Non-Generic.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\refint\Queue_Non-Generic.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\Queue_Non-Generic.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Queue_Non-Generic\Queue_Non-Generic\obj\Debug\net8.0\ref\Queue_Non-Generic.dll

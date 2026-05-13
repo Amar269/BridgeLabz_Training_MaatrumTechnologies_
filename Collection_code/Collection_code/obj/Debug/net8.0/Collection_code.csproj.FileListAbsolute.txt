@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\bin\Debug\net8.0\Collection_code.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\bin\Debug\net8.0\Collection_code.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\bin\Debug\net8.0\Collection_code.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\bin\Debug\net8.0\Collection_code.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\bin\Debug\net8.0\Collection_code.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\refint\Collection_code.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\Collection_code.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Collection_code\Collection_code\obj\Debug\net8.0\ref\Collection_code.dll

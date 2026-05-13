@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\bin\Debug\net8.0\FileIOpractice.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\bin\Debug\net8.0\FileIOpractice.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\bin\Debug\net8.0\FileIOpractice.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\bin\Debug\net8.0\FileIOpractice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\bin\Debug\net8.0\FileIOpractice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\refint\FileIOpractice.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\FileIOpractice.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\FileIOpractice\FileIOpractice\obj\Debug\net8.0\ref\FileIOpractice.dll

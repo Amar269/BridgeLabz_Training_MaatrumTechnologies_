@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\bin\Debug\net8.0\Regex_coding.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\bin\Debug\net8.0\Regex_coding.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\bin\Debug\net8.0\Regex_coding.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\bin\Debug\net8.0\Regex_coding.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\bin\Debug\net8.0\Regex_coding.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\refint\Regex_coding.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\Regex_coding.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\Regex_coding\Regex_coding\obj\Debug\net8.0\ref\Regex_coding.dll

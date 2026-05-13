@@ -1,0 +1,15 @@
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\bin\Debug\net8.0\EXCEPTION_HANDLING.exe
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\bin\Debug\net8.0\EXCEPTION_HANDLING.deps.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\bin\Debug\net8.0\EXCEPTION_HANDLING.runtimeconfig.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\bin\Debug\net8.0\EXCEPTION_HANDLING.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\bin\Debug\net8.0\EXCEPTION_HANDLING.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.GeneratedMSBuildEditorConfig.editorconfig
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.AssemblyInfoInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.AssemblyInfo.cs
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.csproj.CoreCompileInputs.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.sourcelink.json
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\refint\EXCEPTION_HANDLING.dll
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.pdb
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\EXCEPTION_HANDLING.genruntimeconfig.cache
+E:\BridgeLabz_Training_MaatrumTechnologies_\EXCEPTION_HANDLING\EXCEPTION_HANDLING\obj\Debug\net8.0\ref\EXCEPTION_HANDLING.dll

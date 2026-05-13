@@ -1,0 +1,2 @@
+I am learning File I/O in C# step by step
+This is the first appended text 
