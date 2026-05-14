@@ -872,3 +872,27 @@ Each branch contains topic-wise practice.
 - None
 
 ---
+
+# Daily Status Update: 14.05.2026
+
+## What I have done:
+- Learned the basics of **LINQ in C#**
+- Studied **LINQ Providers**
+- Learned and practiced:
+  - Query Syntax
+  - Method Syntax
+  - Query + Method Combined Syntax
+- Implemented LINQ programs using **List collections**
+
+## What I will do next:
+- Learn:
+  - IEnumerable and IQueryable in C#
+  - Differences between IEnumerable and IQueryable
+  - LINQ Extension Methods in C#
+  - LINQ Operators
+  - LINQ Select Operator in C#
+  - LINQ SelectMany Method in C#
+- Practice and implement examples for all LINQ concepts
+
+## Issues faced:
+- None
