@@ -896,3 +896,20 @@ Each branch contains topic-wise practice.
 
 ## Issues faced:
 - None
+-----
+# Daily Status Update: 15.05.2026
+
+## What I have done:
+- Completed studying and implementing:
+  - IEnumerable and IQueryable in C#
+  - Differences between IEnumerable and IQueryable
+  - LINQ Extension Methods in C#
+
+## What I will do next:
+- Learn and implement:
+  - LINQ Operators
+  - LINQ Select Operator in C#
+  - LINQ SelectMany Method in C#
+
+## Issues faced:
+- None
