@@ -913,3 +913,751 @@ Each branch contains topic-wise practice.
 
 ## Issues faced:
 - None
+
+---
+
+# Daily Status Update: 16.05.2026
+
+## What I have done:
+
+- Completed studying and implementing:
+  - LINQ Select Operator in C#
+  - LINQ SelectMany Method in C#
+  - LINQ Where Method in C#
+  - OfType Operator in LINQ
+  - Set Operators in LINQ
+  - LINQ Distinct Method in C#
+- Started learning DBMS concepts
+
+## What I will do next:
+
+- Learn and implement:
+  - LINQ Except Method in C#
+  - LINQ Intersect Method in C#
+  - LINQ Union Method in C#
+  - LINQ Concat Method in C#
+  - Ordering Operators in LINQ
+  - LINQ OrderBy Method in C#
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 18.05.2026
+
+## What I have done:
+
+- Installed and configured:
+  - MS SQL Server
+  - SQL Server Management Studio (SSMS)
+
+- Studied and completed SQL Fundamentals concepts:
+  - What is a Database
+  - What is DBMS
+  - What is RDBMS
+  - SQL vs MSSQL
+  - MSSQL Installation
+  - Query for Databases
+  - Overview of System Databases
+  - Creating Database
+  - Use Database
+  - Drop Database
+
+- Completed CRUD Operations:
+  - Creating Table
+  - Insert Data
+  - Reading Data
+  - Update Data
+  - Delete Data
+  - Truncate
+
+- Learned basics of:
+  - What is a Table
+  - Database Creation and Table Creation
+
+## What I will do next:
+
+- Learn and implement:
+  - What are Datatypes
+  - What are Constraints
+  - Primary Key
+  - Unique Key
+  - NOT NULL & DEFAULT Constraint
+  - Creating EMPLOYEE Table Task
+  - SQL Clauses
+  - WHERE Clause
+  - DISTINCT
+  - ORDER BY
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 19.05.2026
+
+## What I have done:
+
+- Started learning SQL Datatypes:
+  - INT
+  - BIGINT
+  - CHAR
+  - VARCHAR
+  - DATE
+  - DATETIME
+  - BOOLEAN
+  - NUMERIC
+  - STRING
+
+- Learned and implemented SQL Constraints:
+  - Primary Key
+  - Unique
+  - NOT NULL
+  - DEFAULT
+  - IDENTITY
+
+- Created and implemented a new EMPLOYEE table in the existing database using all learned concepts.
+
+- Completed SQL Clauses and Operators:
+  - WHERE
+  - DISTINCT
+  - ORDER BY
+  - Relational Operators
+  - LIKE
+  - TOP
+
+- Learned and implemented Logical Operators:
+  - AND
+  - OR
+  - IN
+  - NOT IN
+  - BETWEEN
+
+- Completed CASE statement concepts and implementations.
+
+## What I will do next:
+
+- Learn and implement:
+  - Aggregate Functions
+  - GROUP BY
+  - Multi-Column Grouping
+  - HAVING Clause
+  - GROUP BY ROLLUP
+  - Sub Queries and its Types
+  - Correlated Sub Query
+  - Inline View Sub Query
+  - String Functions
+  - Exercises on String Functions
+  - Date Functions
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 20.05.2026
+
+## What I have done:
+
+- Completed and implemented:
+  - Aggregate Functions
+  - GROUP BY
+  - Multi-Level Grouping
+  - HAVING Clause
+  - GROUP BY ROLLUP
+
+- Learned and implemented Sub Queries:
+  - Sub Queries and its Types
+  - Correlated Sub Query
+  - Inline View Sub Query
+
+- Practiced:
+  - String Function Queries
+  - Date Function Queries
+
+- Learned and implemented:
+  - ALTER Queries
+  - Add / Drop Constraints
+  - CHECK Constraint
+
+- Studied Database Relationships:
+  - Foreign Key
+  - One-to-One Relationship
+  - One-to-Many Relationship
+  - Many-to-Many Relationship
+
+## What I will do next:
+
+- Learn and implement:
+  - Cascade on Delete
+  - JOINS
+  - CROSS JOIN
+  - INNER JOIN
+  - LEFT JOIN & RIGHT JOIN
+  - FULL OUTER JOIN
+  - OUTER APPLY & CROSS APPLY
+  - UNION & EXCEPT
+  - SELF JOIN
+  - Practical Implementation of Many-to-Many Relationships
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 21.05.2026
+
+## What I have done:
+
+- Completed advanced SQL Server concepts.
+- Completed and implemented:
+  - Practical Many-to-Many Relationships
+  - ESTORE DB Task
+  - Views
+  - Window Functions
+  - ROW_NUMBER, RANK & DENSE_RANK
+  - LAG & LEAD
+  - Window Functions – ROWS BETWEEN
+  - FIRST_VALUE, LAST_VALUE and NTILE
+  - Benefits of Window Functions
+  - Common Table Expressions (CTE)
+
+## What I will do next:
+
+- Learn and implement:
+  - Stored Routine
+  - Stored Procedure (SP)
+  - SP with INPUT Parameters
+  - List and ALTER SP
+  - UPDATE / INSERT using SP
+  - SP with OUTPUT Parameters
+  - Procedural Logic in SP
+  - User Defined Functions (Scalar)
+  - ITVF Function
+  - UDF Use Cases
+  - Generate Random Data
+  - Indexes
+  - Triggers
+  - Normalization
+  - Import & Export Databases
+  - Import Data from CSV
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 22.05.2026
+
+## What I have done:
+
+- Learned and implemented:
+  - Stored Routine
+  - Stored Procedure (SP)
+  - SP with INPUT Parameters
+  - List and ALTER SP
+  - UPDATE / INSERT using SP
+  - SP with OUTPUT Parameters
+  - Procedural Logic in SP
+  - User Defined Functions (Scalar)
+  - ITVF Function
+  - UDF Use Cases
+  - Generate Random Data
+  - Indexes
+  - Triggers
+  - Normalization
+  - Import & Export Databases
+  - Import Data from CSV
+
+## What I will do next:
+
+- Revise all LINQ topics
+- Revise all DBMS and SQL concepts
+- Practice SQL Queries and Stored Procedures
+- Practice LINQ Programs and Query Writing
+- Prepare and Revise all SQL Topics for Review 7
+
+## Issues faced:
+
+- None
+
+------
+
+# Daily Status Update: 23.05.2026
+
+## What I have done:
+
+- Revised all LINQ topics completely.
+- Revised all DBMS and SQL concepts completely.
+- Practiced LINQ query writing and implementations.
+- Practiced SQL queries and database concepts.
+- Completed Review 7.
+
+## What I will do next:
+
+- Start ADO.NET concepts.
+- Practice CRUD Operations using ADO.NET.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 25.05.2026
+
+## What I have done:
+
+- Started ADO.NET concepts and implementation.
+- Understood ADO.NET architecture and components.
+
+## What I will do next:
+
+- Perform CRUD Operations using ADO.NET.
+- Practice database connection and query execution programs.
+- Implement Insert, Update, Delete, and Select operations.
+- Strengthen hands-on ADO.NET coding practice.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 26.05.2026
+
+## What I have done:
+
+- Connected Visual Studio to SQL Server using Server Explorer.
+- Practiced ADO.NET database connectivity concepts.
+- Learned and implemented:
+  - SQL Commands
+  - SQL Data Reader
+  - SQL Data Adapter
+  - SQL Data Table
+  - SQL Data Methods
+
+## What I will do next:
+
+- Learn and implement:
+  - Using Stored Procedures in ADO.NET
+  - DataSet using Stored Procedures
+  - DataView in ADO.NET
+  - Connected vs Disconnected Architecture
+  - Transactions in ADO.NET
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 27.05.2026
+
+## What I have done:
+
+- Practiced and implemented:
+  - SQL Data Adapter
+  - SQL Data Table
+  - SQL Data Methods
+  - DataSet using Stored Procedures
+  - DataView in ADO.NET
+  - Connected vs Disconnected Architecture
+
+- Revised ADO.NET database connectivity concepts with implementations.
+
+## What I will do next:
+
+- Start ASP.NET implementation.
+- Learn and strengthen ASP.NET concepts.
+- Practice ASP.NET project setup and implementations.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 29.05.2026
+
+## What I have done:
+
+- Completed ADO.NET concepts and revised all topics for the review.
+- Started learning Entity Framework Core (EF Core).
+- Studied and implemented:
+  - DbContext
+  - DbSet
+  - Migrations
+
+- Learned EF Core development approaches:
+  - Code First Approach
+  - Database First Approach
+
+- Explored EF Core NuGet packages, features, and advantages.
+- Learned about Layered Architecture and its components.
+
+## What I will do next:
+
+- Study and implement Dependency Injection (DI).
+- Continue learning EF Core concepts across:
+  - Business Layer
+  - Data Access Layer
+  - Model Layer
+  - Presentation Layer
+
+- Understand the folder structure, files, and working flow in Layered Architecture applications.
+- Start learning and implementing ASP.NET concepts.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 30.05.2026
+
+## What I have done:
+
+- Revised ADO.NET concepts.
+- Revised Entity Framework Core (EF Core) concepts.
+- Prepared and completed Review 8.
+
+## What I will do next:
+
+- Study and implement Dependency Injection (DI).
+- Continue learning EF Core concepts across:
+  - Business Layer
+  - Data Access Layer
+  - Model Layer
+  - Presentation Layer
+
+- Understand the folder structure, files, and working flow in Layered Architecture applications.
+- Start learning and implementing ASP.NET concepts.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 01.06.2026
+
+## What I have done:
+
+- Studied and implemented Dependency Injection (DI).
+- Continued learning Entity Framework Core (EF Core) concepts across:
+  - Business Layer
+  - Data Access Layer
+  - Model Layer
+  - Presentation Layer
+
+- Understood the folder structure, files, and working flow in Layered Architecture applications.
+- Started learning and implementing ASP.NET concepts.
+
+## What I will do next:
+
+- Start implementing an ASP.NET Web API project.
+- Learn about:
+  - APIs and Web APIs
+  - RESTful APIs
+  - Swagger and API Documentation
+
+- Begin development of the Employee Payroll project using ASP.NET Web API.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 02.06.2026
+
+## What I have done:
+
+- Started the Fundo Notes project.
+- Created and configured the GitHub repository for the project.
+- Set up the 3-Tier Architecture structure.
+- Created all required folders, project files, and configurations.
+- Installed the necessary NuGet packages.
+- Implemented the User Registration endpoint end-to-end.
+- Implemented SMTP integration for email functionality.
+- Studied BCrypt for password hashing.
+
+- Covered BCrypt-related concepts:
+  - Salting
+  - Cost Factor
+  - Password Security Best Practices
+
+## What I will do next:
+
+- Continue studying and implementing SMTP concepts.
+- Learn and implement JWT (JSON Web Token) Authentication.
+- Implement the User Login endpoint.
+- Verify and test APIs using Swagger.
+- Continue development of the Fundo Notes project.
+
+## Issues faced:
+
+- None
+
+------
+
+# Daily Status Update: 03.06.2026
+
+## What I have done:
+
+- Completed the User Login endpoint in the Fundo Notes project.
+
+- Studied and understood:
+  - JWT (JSON Web Token)
+  - Authentication
+  - Authorization
+
+- Learned about Google Password Manager and password generation best practices.
+
+- Studied SMTP concepts in detail:
+  - SMTP Flow
+  - SMTP Client
+  - SSL
+  - MailMessage
+  - SendMailAsync
+  - Async and Await
+  - HTML Email Templates
+
+- Implemented SMTP functionality in the Fundo Notes project.
+- Successfully configured email notifications so that when a user creates an account, a confirmation email is sent automatically.
+- Implemented and tested all the above concepts within the project.
+
+## What I will do next:
+
+- Revise all JWT, SMTP, Authentication, and Authorization concepts.
+- Implement JWT Token generation and validation for secure user authentication.
+- Enhance and test the Login endpoint using JWT-based authentication.
+- Verify API functionality through Swagger.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 04.06.2026
+
+## What I have done:
+
+- Successfully implemented JWT-based authentication in the Fundo Notes project.
+- Configured JWT authentication in Swagger using the Authorize button for secured API testing.
+
+- Studied:
+  - Authentication vs Authorization
+  - JWT Architecture
+  - Header
+  - Payload
+  - Signature
+  - JWT Claims
+  - Bearer Token Concepts
+
+- Created and configured the Note table in the database.
+- Implemented the initial Note module structure and related configurations.
+- Updated the GitHub repository with the latest changes in the feature/user branch.
+- Added and updated the project README file.
+- Created the feature/note branch for Note module development.
+
+## What I will do next:
+
+- Implement the remaining Note module endpoints:
+  - Get Notes
+  - Update Note
+  - Delete Note
+
+- Secure Note APIs using JWT Authentication.
+- Test all Note endpoints using Swagger.
+- Revise JWT, Authentication, Authorization, and Note module concepts.
+- Update GitHub repository with completed Note module implementations.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 05.06.2026
+
+## What I have done:
+
+- Completed the following Note module endpoints:
+  - GET /api/Note/GetAll
+  - GET /api/Note/GetID/{noteId}
+  - PUT /api/Note/Update/{noteId}
+
+- Successfully implemented and tested the endpoints using Swagger.
+- Verified JWT-based authorization for secured Note APIs.
+- Continued development of the Notes module and validated endpoint functionality.
+
+## What I will do next:
+
+- Complete the remaining Note module endpoints.
+- Implement and configure the Label table and related APIs.
+- Integrate Label functionality with Notes.
+- Start learning and implementing Redis concepts.
+- Revise the Note module and perform end-to-end API testing.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 06.06.2026
+
+## What I have done:
+
+- Completed the remaining Note module endpoints.
+- Implemented and configured the Label table and related APIs.
+- Integrated Label functionality with the Notes module.
+- Performed end-to-end testing of Note and Label APIs.
+- Revised the complete Note module implementation and related concepts.
+- Updated the GitHub repository with the latest changes and implementations.
+
+## What I will do next:
+
+- Prepare and revise all concepts covered so far.
+- Review:
+  - ASP.NET Core
+  - ADO.NET
+  - EF Core
+  - JWT Authentication
+  - Notes Module
+  - Label Module
+
+- Practice API implementations and project workflows.
+- Prepare for Review 9.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 08.06.2026
+
+## What I have done:
+
+- Completed the Employee Payroll review questions and implementations.
+- Attended and completed Review 9.
+- Revised project concepts and implementation workflows discussed during the review.
+- Validated understanding of:
+  - ASP.NET Core
+  - Entity Framework Core
+  - JWT Authentication
+  - Project Architecture Concepts
+
+## What I will do next:
+
+- Start learning and implementing Redis in the Fundo Notes project.
+- Explore Redis caching concepts and integration with ASP.NET Core.
+- Begin learning RabbitMQ concepts.
+- Understand:
+  - Message Queues
+  - Producers
+  - Consumers
+  - Asynchronous Communication
+
+- Practice implementing Redis and RabbitMQ in real-world project scenarios.
+
+## Issues faced:
+
+- None
+
+---
+
+# Daily Status Update: 09.06.2026
+
+## What I have done:
+
+- Started learning Redis.
+
+- Studied caching concepts:
+  - Cache
+  - Cache Hit
+  - Cache Miss
+  - In-Memory Cache
+  - Distributed Cache
+
+- Learned Redis fundamentals:
+  - Introduction to Redis
+  - Redis Data Types
+  - Redis OSS vs Redis Stack
+
+- Practiced Redis commands for:
+  - Strings
+  - Hashes
+  - Sets
+  - Lists
+
+- Started learning Docker and its basic concepts.
+
+## What I will do next:
+
+- Complete the remaining Redis concepts and implementations.
+- Integrate Redis into the Fundo Notes project.
+- Start learning RabbitMQ.
+- Understand:
+  - RabbitMQ Architecture
+  - Producers
+  - Consumers
+  - Exchanges
+  - Queues
+
+- Practice implementing message-based communication using RabbitMQ.
+
+## Issues faced:
+
+- None
+
+------
+
+# Daily Status Update: 10.06.2026
+
+## What I have done:
+
+- Completed the remaining Redis concepts and implementations.
+- Studied and understood:
+  - Redis Persistence
+  - RDB Snapshots (RDB)
+  - Append Only File (AOF)
+  - Redis Expiry and TTL
+  - Redis Pub/Sub
+  - Redis Transactions
+- Completed Docker concepts and fundamentals.
+- Downloaded and installed Docker.
+- Downloaded and configured Redis using Docker.
+- Successfully set up Redis for the Fundo Notes project.
+- Practiced Redis operations and verified Redis connectivity through Docker containers.
+- Revised Redis and Docker concepts with hands-on implementation.
+
+## What I will do next:
+
+- Start learning RabbitMQ concepts.
+- Study and understand:
+  - RabbitMQ Architecture
+  - Exchanges
+  - Queues
+  - Producers
+  - Consumers
+  - Routing Keys
+  - Message Flow
+- Implement RabbitMQ in the Fundo Notes project.
+- Practice asynchronous communication using RabbitMQ.
+
+## Issues faced:
+
+- None
+
+---
