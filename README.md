@@ -550,4 +550,4 @@ Performs a binary search through commit history.
 ## 👨‍💻 Author
 
 **Amarnath Kolla**
-Learning Git, GitHub, Linux, Cloud Computing.
+-Learning Git, GitHub, Linux, Cloud Computing and .NEt .
